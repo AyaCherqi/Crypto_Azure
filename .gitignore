@@ -51,6 +51,7 @@ local.settings.json
 .venv/
 __pycache__/
 .azure/
+*.log
 
 __blobstorage__/
 __queuestorage__/
