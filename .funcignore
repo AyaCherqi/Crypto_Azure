@@ -1,0 +1,8 @@
+__blobstorage__/
+__queuestorage__/
+__tablestorage__/
+__azurite_db_*.json
+__azurite_db_*_extent__*.json
+.venv/
+.vscode/
+
